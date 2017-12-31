@@ -20,6 +20,8 @@ Community	Resource	Directory	at	https://network9crd.github.io)	could	be	one	such
 option	by	which	to	display	links	to	the	video	content,	wherever	that	content	is	
 hosted.  
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/uchicagotechteam/nlsc.svg?columns=all)](https://waffle.io/uchicagotechteam/nlsc)
+
 ### Contact
 Julia	Oran  
 juliaoran@uchicago.edu  
